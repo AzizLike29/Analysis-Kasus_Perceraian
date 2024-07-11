@@ -12,3 +12,7 @@ Penjelasan mengenai variabel di dalam Dataset ini:
 5. jumlah_perceraian: menyatakan  jumlah kasus perceraian dengan tipe data numerik.
 6. satuan: menyatakan satuan dari pengukuranjumlah kasus perceraian dalam kasus dengan tipe data teks.
 7. tahun: menyatakan tahun produksi data dengan tipe data numerik.
+
+## Link Pencarian Dataset
+
+Data yang digunakan dalam proyek ini berasal dari [Jumlah Kasus Perceraian Berdasarkan Faktor Penyebab di Jawa Barat](https://opendata.jabarprov.go.id/id/dataset/jumlah-kasus-perceraian-berdasarkan-faktor-penyebab-di-jawa-barat).
